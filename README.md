@@ -1,4 +1,4 @@
-# Movie Recommendation with Prompt-Based Methods
+# Conversational Movie Recommender
 
 A conversational movie recommendation system using few-shot prompting with LLaMA 3 on the TG-ReDial dataset. This is part of the final project for CS 8803 Conversational AI course at Georgia Institute of Technology.
 
